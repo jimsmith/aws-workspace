@@ -5,5 +5,9 @@ create aws workspace by terraform
 
 https://www.terraform.io/downloads.html
 
+# image
+
+![image](https://github.com/takahashi-toshitaka/aws-workspace/blob/master/aws-workspace.png)
+
 
 
