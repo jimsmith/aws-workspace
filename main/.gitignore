@@ -1,0 +1,4 @@
+provider_override.tf
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
